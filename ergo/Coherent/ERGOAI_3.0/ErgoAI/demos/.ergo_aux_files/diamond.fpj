@@ -1,5 +1,5 @@
-%% #include info for source file: /home/kifer/ERGOAI/ErgoEngine/ErgoAI/demos/diamond.flr
+%% #include info for source file: /ergo/Coherent/ERGOAI_3.0/ErgoAI/demos/diamond.flr
 
 
 :-(multifile(/('_$_$_ergo''include_prj_info',2))).
-'_$_$_ergo''include_prj_info'('/home/kifer/ERGOAI/ErgoEngine/ErgoAI/demos/diamond.flr',null).
+'_$_$_ergo''include_prj_info'('/ergo/Coherent/ERGOAI_3.0/ErgoAI/demos/diamond.flr',null).
